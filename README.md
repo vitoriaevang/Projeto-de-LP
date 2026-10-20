@@ -48,3 +48,5 @@ POST   /api/alunos
 GET    /api/alunos/{id}
 PUT    /api/alunos/{id}
 DELETE /api/alunos/{id}
+
+<img width="771" height="567" alt="image" src="https://github.com/user-attachments/assets/aa185be8-a4c6-4acb-b4b7-a70621db5271" />
